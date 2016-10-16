@@ -1,0 +1,10 @@
+Django>=1.9,<1.10
+dj-database-url
+gunicorn
+psycopg2
+boto
+django-storages
+# django-admin-shortcuts
+# Pillow
+# django-widget-tweaks
+# django-orderable
